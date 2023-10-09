@@ -5,45 +5,38 @@
 }
 .navmenu
 {
- font-size: 20px;
- color: royalblue;
- font-weight: bolder;
+	font-size: 20px;
+	color: royalblue;
+	font-weight: bolder;
+
 }
 .logo
 {
- font-size:25px ;
- font-family:elephant ;
- font-variant:small-caps ;
- color: red ;
+	font-size: 25px;
+	font-family: Elephant;
+	font-variant: small-caps;
+	color: orangered;
 }
-.sections-menu
-{
-position: relative;
-top: 100px;
+.section-menu{
+	position: relative;
+	top: 100px;
+
 }
-.sections-menu div
-{
+.section-menu div{
 	height: 400px;
-	width:100%;
-	border: 5px solid red;
+	width: 100%;
+	border: 5px solid  red;
+
 }
-.navbar
-{
-position: fixed;
-top:0px;
-left: 0px;
-z-index: 3;
-width: 100%;
+.navbar{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 3;
+	width: 100%;
 }
-html
-{
+
+html{
 	scroll-behavior: smooth;
 }
-
-
-
-
-
-
-
 
